@@ -138,3 +138,84 @@
 .soruIconText{
     font-size:50px;
 }
+
+#middleContainer {
+    width: 1270px;
+    height: 400px;
+    margin: 0 auto;
+    
+}
+   
+#midcontext1{
+    color:black;
+    font-family:Verdana;
+    font-size:32px;
+    text-align:center;
+    font-weight:200;
+}
+
+#midcontext2{
+    color:gray;
+    font-family:Verdana;
+    font-size:16px;
+    text-align:center;
+    font-weight:200;
+    }
+
+#midControw1{
+    width: 1270px;
+    height: 125px;
+    
+}
+
+.columnsize{
+   width:400px;
+   height:100px;
+}
+
+#midControw1Col1 {
+    border:1px solid gray;
+    
+    margin: 5px 0px 0px 5px;
+    float: left;
+}
+
+#midControw1Col2 {
+    border: 1px solid gray;
+    margin: 5px 0px 0px 30px;
+    float: left;
+}
+
+#midControw1Col3 {
+    border: 1px solid gray;
+    margin: 5px 5px 0px 20px;
+    float: right;
+}
+
+#midControw2Col1 {
+    border: 1px solid gray;
+    margin: 5px 0px 0px 5px;
+    float: left;
+}
+
+#midControw2Col2 {
+    border: 1px solid gray;
+    margin: 5px 0px 0px 30px;
+    float: left;
+}
+
+#midControw2Col3 {
+    border: 1px solid gray;
+    margin: 5px 5px 0px 20px;
+    float: right;
+}
+
+.logoFix {
+    float: left;
+    margin: 10px 10px 15px 10px;
+}
+
+.textFix{
+    margin:10px auto;
+   
+}
